@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaro-hernandez&label=Profile%20views&color=0e75b6&style=flat" alt="alvaro-hernandez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvaro-hernandez" alt="alvaro-hernandez" /></a> </p>
-
 - 🔭 I’m currently working on [Delta_Consorcio.](https://github.com/Alvaro-Hernandez/Consorcio_Java)
 
 - 🌱 I’m currently learning **Image Recognition, Frontend, React and PHP Course.**
