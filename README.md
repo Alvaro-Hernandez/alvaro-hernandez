@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro Hernandez</h1>
-<h3 align="center">A passionate frontend developer from Nicaragua</h3>
+<h3 align="center">A passionate developer from Nicaragua</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaro-hernandez&label=Profile%20views&color=0e75b6&style=flat" alt="alvaro-hernandez" /> </p>
 
@@ -21,10 +21,10 @@
 <p align="left">
 <a href="https://codepen.io/alvaro-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alvaro-hernandez" height="30" width="40" /></a>
 <a href="https://twitter.com/alvarop27303015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvarop27303015" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alvaro n. benites hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro n. benites hernández" height="30" width="40" /></a>
-<a href="https://fb.com/alvaro pineda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alvaro pineda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alvaro-n-benites-hernández-992b921b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro n. benites hernández" height="30" width="40" /></a>
+<a href="https://fb.com/alvaro.pineda.965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alvaro pineda" height="30" width="40" /></a>
 <a href="https://instagram.com/alvaro07ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvaro07ph" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alvaro hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alvaro hernandez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCudtQBmN6tldm47gjqYephg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alvaro hernandez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-hernandez&show_icons=true&locale=en&layout=compact" alt="alvaro-hernandez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaro-hernandez&show_icons=true&locale=en" alt="alvaro-hernandez" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alvaro-hernandez&show_icons=true&locale=en" alt="alvaro-hernandez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvaro-hernandez&" alt="alvaro-hernandez" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alvaro-hernandez&" alt="alvaro-hernandez" /></p>
 
