@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaro-hernandez&label=Profile%20views&color=0e75b6&style=flat" alt="alvaro-hernandez" /> </p>
 
-- 🔭 I’m currently working on [My team page.](https://github.com/Alvaro-Hernandez/Consorcio_Java)
+- 🔭 I’m currently working on [My team page.](https://github.com/Alvaro-Hernandez/My-Team-Page)
 
 - 🌱 I’m currently learning **Image Recognition, Frontend, React and PHP Course.**
 
