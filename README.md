@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaro-hernandez&label=Profile%20views&color=0e75b6&style=flat" alt="alvaro-hernandez" /> </p>
 
-- 🔭 I’m currently working on [Curso Práctico de React Native: Manejo de Listas y Consumo de APIs.](https://github.com/Alvaro-Hernandez/Empleado_Angular)
+- 🔭 I’m currently working on [Curso Práctico de React Native: Manejo de Listas y Consumo de APIs.](https://github.com/Alvaro-Hernandez/React_NativePokemon/tree/pokedex)
 
 - 🌱 I’m currently learning **Image Recognition, Frontend, React and PHP Course.**
 
