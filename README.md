@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaro-hernandez&label=Profile%20views&color=0e75b6&style=flat" alt="alvaro-hernandez" /> </p>
 
-- 🔭 I’m currently working on [Fundamentos de Angular Platzi](https://github.com/Alvaro-Hernandez/basics_of_Angular_Platzi)
+- 🔭 I’m currently working on [Pagina Motivacional](https://github.com/Alvaro-Hernandez/PageMotivation)
 
 - 🌱 I’m currently learning **Image Recognition, Frontend, React and PHP Course.**
 
