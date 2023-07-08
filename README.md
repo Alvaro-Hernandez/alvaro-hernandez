@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaro-hernandez&label=Profile%20views&color=0e75b6&style=flat" alt="alvaro-hernandez" /> </p>
 
-- 🔭 I’m currently working on [Calculadora React Native](https://github.com/Alvaro-Hernandez/CalculadoraApp-ReactNative)
+- 🔭 I’m currently working on [FitnessApp React Native](https://github.com/Alvaro-Hernandez/Examen_Alvaro_Carlos)
 
 - 🌱 I’m currently learning **Image Recognition, Frontend, React and PHP Course.**
 
