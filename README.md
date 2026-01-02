@@ -66,7 +66,7 @@ Building digital solutions and mentoring new developers in Nicaragua 🇳🇮
 
 ## 📫 Contact Me
 - 📧 **Email:** alvaropineda606@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/alvaro-n-benites-hernández-992b921b7/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hernandezalvarodev/
 
 ---
 
